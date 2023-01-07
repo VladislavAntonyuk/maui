@@ -1,7 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Icon</title>
-    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polygon id="Star" stroke="#B2B2B2" stroke-width="9" fill="#454545" points="511.5 690.679688 307.244625 792.633406 341.089991 566.869568 181.007861 404.116594 406.180822 366.540588 511.5 164 616.819178 366.540588 841.992139 404.116594 681.910009 566.869568 715.755375 792.633406"></polygon>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" version="1.1" viewBox="0 0 1024 1024"><title>Icon</title><g id="Icon" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><polygon id="Star" fill="#454545" stroke="#B2B2B2" stroke-width="9" points="511.5 690.68 307.245 792.633 341.09 566.87 181.008 404.117 406.181 366.541 511.5 164 616.819 366.541 841.992 404.117 681.91 566.87 715.755 792.633"/></g></svg>
