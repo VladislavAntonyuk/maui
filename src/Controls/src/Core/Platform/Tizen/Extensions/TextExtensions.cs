@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Microsoft.Maui.Platform;
 using Microsoft.Maui.Controls.Internals;
-using TEntry = Tizen.UIExtensions.NUI.Entry;
+using Microsoft.Maui.Platform;
 using TEditor = Tizen.UIExtensions.NUI.Editor;
+using TEntry = Tizen.UIExtensions.NUI.Entry;
 using TLabel = Tizen.UIExtensions.NUI.Label;
 
 namespace Microsoft.Maui.Controls.Platform

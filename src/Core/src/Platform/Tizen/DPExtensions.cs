@@ -1,9 +1,9 @@
 ﻿using System;
 using Microsoft.Maui.Graphics;
+using DeviceInfo = Tizen.UIExtensions.Common.DeviceInfo;
+using TPoint = Tizen.UIExtensions.Common.Point;
 using TRect = Tizen.UIExtensions.Common.Rect;
 using TSize = Tizen.UIExtensions.Common.Size;
-using TPoint = Tizen.UIExtensions.Common.Point;
-using DeviceInfo = Tizen.UIExtensions.Common.DeviceInfo;
 
 namespace Microsoft.Maui.Platform
 {

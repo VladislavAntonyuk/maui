@@ -4,11 +4,11 @@ using Tizen.NUI.BaseComponents;
 using Tizen.UIExtensions.Common;
 using Tizen.UIExtensions.NUI;
 using Tizen.UIExtensions.NUI.GraphicsView;
+using MaterialIcons = Tizen.UIExtensions.Common.GraphicsView.MaterialIcons;
+using NColor = Tizen.NUI.Color;
 using NView = Tizen.NUI.BaseComponents.View;
 using TColor = Tizen.UIExtensions.Common.Color;
-using NColor = Tizen.NUI.Color;
 using TSize = Tizen.UIExtensions.Common.Size;
-using MaterialIcons = Tizen.UIExtensions.Common.GraphicsView.MaterialIcons;
 
 namespace Microsoft.Maui.Platform
 {
